@@ -29,12 +29,15 @@ Then type ```conda activate <your_env_name>``` and you can start using it.
 Note: In Jupyter notebook you will need to pick the right environment. 
 3. Install the necessary packages
 These are the packages used:  
-* ipykernel (to run the notebook) 
-* ipywidgets  
+* jupyter (for jupyter notebook)
+* ipykernel (jupyter) 
+* ipywidgets (jupyter)
 * rasterio (to work with geotiffs in Python)
-* jupyter
+* matplotlib (for plotting)
+* shapely (working with geometries)
+* pyproj (working with projections) 
 
-You install them with ```conda install -c conda-forge <package_name>```, so you can do `conda install -c conda-forge ipykernel ipywidgets rasterio geopandas folium jupyter` in one go. 
+You install them with ```conda install -c conda-forge <package_name>```, so you can do `conda install -c conda-forge jupyter ipykernel ipywidgets rasterio matplotlib shapely pyproj` in one go. 
 
 ## Side-note about Copernicus Open Access Hub vs Copernicus Data Space Ecosystem
 
