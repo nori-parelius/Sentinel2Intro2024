@@ -4,7 +4,7 @@ This repo contains the presentation and resources for a lecture about Sentinel 2
 
 The presentation includes a demo of how to download Sentinel 2 data using the Copernicus Browser, visualise the data and calculate the NDVI index. 
 
-If you are a participant in that course, as a pre-homework, I would like you to read this README.md before the class. 
+If you are a participant in that course, as a pre-homework, I would like you to read this README.md before the class. This will be a hands-on class where we will try to use Sentinel 2 data and do something with them, so please, bring your laptop, if possible. 
 
 
 ## How to create a Copernicus Data Space account
