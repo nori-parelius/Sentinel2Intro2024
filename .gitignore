@@ -2,3 +2,4 @@
 *.zip
 *.SAFE/
 orig_Sentinel2.ipynb
+*.tif
